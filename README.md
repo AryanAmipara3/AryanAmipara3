@@ -21,13 +21,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanAmipara3&theme=algolia" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanAmipara3&show_icons=true&theme=algolia" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAmipara3&layout=compact&theme=algolia" />
 </p>
 
 ---

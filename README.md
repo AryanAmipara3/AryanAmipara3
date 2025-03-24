@@ -39,26 +39,26 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryanAmipara&show_icons=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanAmipara&theme=algolia" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryanAmipara3&show_icons=true&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanAmipara3&theme=algolia" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAmipara&layout=compact&theme=algolia" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAmipara3&layout=compact&theme=algolia" />
 </p>
 
 ---
 
 ## 🔗 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryan-amipara-688206238)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/AryanAmipara)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/AryanAmipara3)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AryanAmipara)
 
 ---
 
 ### 🚀 **Visitor Count**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryanAmipara&style=flat-square&color=blue" alt="profile view counter">
+  <img src="https://komarev.com/ghpvc/?username=AryanAmipara3&style=flat-square&color=blue" alt="profile view counter">
 </p>
 
 ---

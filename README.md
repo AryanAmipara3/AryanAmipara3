@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Aryan Amipara</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/FenilKachhadiya11/FenilKachhadiya11/main/assets/coding.gif">
 
 - 🔭 I’m currently working on **[Your Project Name]**
 - 🌱 I’m learning **[Technology/Skill]**
 - 👯 I’m looking to collaborate on **[Project/Technology]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email or Social Links]**
+- 💬 Ask me about **Website Development**
+- 📫 How to reach me: **aryanamipara3@gmail.com**
 
 ---
 

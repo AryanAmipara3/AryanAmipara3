@@ -1,43 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aryan Amipara</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m learning **[Technology/Skill]**
-- 👯 I’m looking to collaborate on **[Project/Technology]**
-- 💬 Ask me about **Website Development**
-- 📫 How to reach me: **aryanamipara3@gmail.com**
-
----
-
-### 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanAmipara3&theme=algolia" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanAmipara3&show_icons=true&theme=algolia" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanAmipara3&layout=compact&theme=algolia" />
-</p>
-
----
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-amipara-688206238)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/AryanAmipara3)
-
-
-
 <h1 align="center">🚀 Hey there!👋 I'm Aryan Amipara </h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
@@ -92,7 +52,7 @@
 ## 🔗 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryan-amipara-688206238)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/AryanAmipara)
-  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AryanAmipara)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AryanAmipara)
 
 ---
 

@@ -52,7 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryan-amipara-688206238)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/AryanAmipara3)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AryanAmipara)
-[![Twitter](https://img.shields.io/badge/Facebook?style=for-the-badge&logo=facebook)](https://www.facebook.com/aryan.amipara.3)
+[![Facebook](https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook)](https://www.facebook.com/aryan.amipara.3)
 
 ---
 

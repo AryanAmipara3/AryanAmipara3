@@ -8,8 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## 🌱 About Me
-- 🔭 Currently working on **[Your Project Name]**
-- 🌱 Learning **[Latest Technology/Skill]**
+- 🌱 Learning **Emerging Technologies & Web application Frameworks**
 - 💬 Ask me about **Web Development**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🎯 Goal for 2025: **Contribute to more Open Source Projects**
@@ -53,6 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryan-amipara-688206238)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/AryanAmipara3)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AryanAmipara)
+[![Twitter](https://img.shields.io/badge/Facebook?style=for-the-badge&logo=facebook)](https://www.facebook.com/aryan.amipara.3)
 
 ---
 
